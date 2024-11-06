@@ -6,8 +6,6 @@ You are well on your way to becoming a programmer and Excel expert! In this home
 
 ## Instructions
 
-![stock Market](Images/stockmarket.jpg)
-
 ### Create a script that loops through all the stocks for each quarter and outputs the following information:
 
 * The ticker symbol
