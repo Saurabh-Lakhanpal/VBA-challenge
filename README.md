@@ -16,8 +16,10 @@ CHALLANGE - VBA scripting to analyze generated stock market data.
 
 * The total stock volume of the stock. The result should match the following image:
 
-![alt text]([http://url/to/img.png](https://github.com/Saurabh-Lakhanpal/VBA-challenge/blob/main/moderate_solution.jpg))
+![moderate_solution](https://github.com/user-attachments/assets/6c909b64-df0b-4fb2-b22b-010a36270572)
 
 * Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
+
+![hard_solution](https://github.com/user-attachments/assets/e216cf68-4a6b-4c5a-a495-5b8fcbc43ba3)
 
 * Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every quarter) at once.
