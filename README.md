@@ -1,8 +1,4 @@
-# VBA Challenge
-
-## Background
-
-CHALLANGE - VBA scripting to analyze generated stock market data.
+# VBA Challenge - scripting to analyze generated stock market data
 
 ## Instructions
 
@@ -23,3 +19,6 @@ CHALLANGE - VBA scripting to analyze generated stock market data.
 ![hard_solution](https://github.com/user-attachments/assets/e216cf68-4a6b-4c5a-a495-5b8fcbc43ba3)
 
 * Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every quarter) at once.
+
+---------------------------------------------------------------------------------------------------------------------------
+# The Solution
