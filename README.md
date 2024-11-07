@@ -25,3 +25,4 @@
 ### Please download and use: 
 https://github.com/Saurabh-Lakhanpal/VBA-challenge/blob/main/Multiple_year_stock_data.xlsm
 ### Preview:
+![vba-screenRecorder](https://github.com/user-attachments/assets/1b4d5a23-b7e4-4197-911d-daabbd33ae6b)
